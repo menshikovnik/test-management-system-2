@@ -1,0 +1,13 @@
+<Context>
+    <Resource
+            name="jdbc/TestSystemDB"
+            auth="Container"
+            type="javax.sql.DataSource"
+            driverClassName="org.postgresql.Driver"
+            url="jdbc:postgresql://localhost:5432/test_management_app_db"
+            username="ваш_пользователь_БД"
+            password="ваш_пароль_БД"
+            maxTotal="20"
+            maxIdle="10"
+            maxWaitMillis="-1"/>
+</Context>

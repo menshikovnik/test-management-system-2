@@ -1,0 +1,7 @@
+/Users/nikmenshikov/Documents/code/test-management-system-2/backend/src/main/java/com/testmanegementsystem2/dao/UserDao.java
+/Users/nikmenshikov/Documents/code/test-management-system-2/backend/src/main/java/com/testmanegementsystem2/model/User.java
+/Users/nikmenshikov/Documents/code/test-management-system-2/backend/src/main/java/com/testmanegementsystem2/model/VerificationToken.java
+/Users/nikmenshikov/Documents/code/test-management-system-2/backend/src/main/java/com/testmanegementsystem2/util/DbUtil.java
+/Users/nikmenshikov/Documents/code/test-management-system-2/backend/src/main/java/com/testmanegementsystem2/util/JsonUtil.java
+/Users/nikmenshikov/Documents/code/test-management-system-2/backend/src/main/java/com/testmanegementsystem2/util/JwtUtil.java
+/Users/nikmenshikov/Documents/code/test-management-system-2/backend/src/main/java/com/testmanegementsystem2/util/PasswordUtil.java
