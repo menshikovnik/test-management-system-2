@@ -40,5 +40,4 @@ public class VerificationToken {
         this.userId = userId;
     }
 
-    // геттеры/сеттеры...
 }

@@ -1,7 +1,0 @@
-com/testmanegementsystem2/util/DbUtil.class
-com/testmanegementsystem2/dao/UserDao.class
-com/testmanegementsystem2/model/User.class
-com/testmanegementsystem2/util/JwtUtil.class
-com/testmanegementsystem2/model/VerificationToken.class
-com/testmanegementsystem2/util/JsonUtil.class
-com/testmanegementsystem2/util/PasswordUtil.class
